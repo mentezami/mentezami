@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Mahmoudreza's github stats](https://github-readme-stats.vercel.app/api?username=mentezami&count_private=true)
+![Mahmoudreza's github stats](https://github-readme-stats.vercel.app/api?username=mentezami&show_icons=true)
