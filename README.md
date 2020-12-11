@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mentezami&show_icons=true&locale=en&theme=nightowl&count_private=true&line_height=20" alt="mentezami" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mentezami&theme=nightowl" alt="mentezami" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mentezami&theme=nightowl&card_width=400" alt="mentezami" /></p>
