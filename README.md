@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Mahmoudreza's github stats](https://github-readme-stats.vercel.app/api?username=mentezami&theme=nightowl&show_icons=true)
+![Mahmoudreza's github stats](https://github-readme-stats.vercel.app/api?username=mentezami&show_icons=true&theme=nightowl)
+![Mahmoudreza's github stats](https://github-readme-stats.vercel.app/api?username=mentezami&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mentezami&theme=nightowl)](https://github.com/mentezami/github-readme-stats)
