@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Mahmoudreza's github stats](https://github-readme-stats.vercel.app/api?username=mentezami&theme=nightowl&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mentezami)](https://github.com/mentezami/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mentezami&theme=nightowl)](https://github.com/mentezami/github-readme-stats)
