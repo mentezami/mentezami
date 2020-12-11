@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![Mahmoudreza's github stats](https://github-readme-stats.vercel.app/api?username=mentezami&count_private=true&line_height=20&show_icons=true&theme=nightowl)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mentezami&theme=nightowl&card_width=500&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mentezami&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mentezami&repo=RiskGame)](https://github.com/anuraghazra/github-readme-stats)
 [![Mahmoudreza's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
